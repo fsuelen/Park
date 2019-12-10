@@ -1,0 +1,100 @@
+body{
+    background-image: url('parque2.jpg');
+}
+.conteiner{
+    font-family: "Times New Roman";
+    font-style: italic;
+
+    color: cyan;
+     padding-top: 30px;
+   text-align: center;
+    box-shadow: 1px  1px 10px  #000;
+    width: 800px;
+    height: 510px;
+   background-color: rgba(0,0,0,0.60);
+   top: 30px;
+   margin: 100px auto 0px auto;
+   border-radius: 20px;
+}
+*{
+    box-sizing: border-box;
+}
+.cadas{
+    font-family: "Times New Roman";
+    font-style: italic;
+    font-size: 18px;
+   padding-top: 30px;
+    border-radius: 15px;
+    position: absolute;
+       box-shadow: 1px  1px 10px  #000;
+    width: 250px;
+    height: 400px;
+   background-color: rgba(0,0,0,0.60);
+   top: 100px;
+left: 80.5%;
+padding-left: 35px;
+color: cyan;
+    
+
+}
+form#pulseira{
+    
+    font-size: 18px;
+ text-align: center;
+color:  turquoise;
+    text-shadow: 2px 2px 2px #000;
+    padding-top: 50px;  
+    
+}
+input{
+    border-radius: 10px;
+    padding: 5px;
+}
+.btn{
+    background-color: cyan;
+    font-family: "Times New Roman";
+  font-style: italic;
+      font-size: 18px;
+      text-shadow: 2px 2px 3px #000;
+      border-color: cyan;
+}
+input#btn:hover{
+    background-color:  #0a1fff;
+    color: cyan;
+}
+
+.logo1{
+      padding-left: 30px;
+    padding-top: 20px;
+   border-radius: 15px;
+    position: absolute;
+       box-shadow: 1px  1px 10px  #000;
+    width: 250px;
+    height: 510px;
+   background-color: rgba(0,0,0,0.70);
+   top: 100px;
+   left: 15px
+; 
+}
+p{
+    
+   
+    color:  #00ffff;
+  text-align: justify;
+  padding-right: 25px;
+   border-top: double;
+  border-radius: 15px;
+   border-bottom: double;
+
+}
+select{
+    padding: 5px;
+    border-radius: 10px;
+}
+img#parque{
+    border: double;
+    border-color: cyan;
+    border-radius: 30px;
+    padding: 5px;
+    box-shadow: 10px 10px 15px #000;
+}
